@@ -14,5 +14,8 @@
     "vue": "^3.4.19",
     "vue-router": "^4.2.5",
     "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.11.4"
   }
 }
